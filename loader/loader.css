@@ -10,7 +10,7 @@
 .loader,
 .loader:before,
 .loader:after {
-  
+
   background: #ffffff;
   -webkit-animation: load1 1s infinite ease-in-out;
   animation: load1 1s infinite ease-in-out;
@@ -20,7 +20,7 @@
 .loader:before,
 .loader:after {
   position: absolute;
-  top: 0;
+  top: 10;
   content: '';
 }
 .loader:before {
